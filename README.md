@@ -51,9 +51,9 @@
 - Github: https://github.com/aaaron7
 - 即刻: amadeus_
 
-#### WWDC 10181 - What's new in HealthKit
-#### WWDC 10151 - What's new in CareKit
-#### WWDC 10664 - Getting started with HealthKit
-- 作者：Parsifal，iOS 开发者，目前就职于微医。
-- GitHub：https://github.com/ParsifalC
-- 微博：https://weibo.com/parsifalchang
+#### WWDC 10635 - Accelerate your app with CarPlay
+#### WWDC 10006 - Introducing Car Keys
+- 作者：板蓝根，iOS 开发者，目前就职于字节跳动,负责抖音、TikTok业务。
+- GitHub：https://github.com/jwfstars
+- 微博：https://weibo.com/jwfstars
+- Twitter：https://twitter.com/jwfstars
